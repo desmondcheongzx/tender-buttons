@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Explicating Tender Buttons
 
-You can use the [editor on GitHub](https://github.com/desmondcheongzx/tender-buttons/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gertrude Stein published _Tender Buttons_ in 1914 and, since then, I imagine generations of writers have enjoyed and struggled with her work. We readers are thrust into the thick of a world re-imagined, or re-examined, with the impelling "The difference is spreading" that ends the first poem:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> A CARAFE, THAT IS A BLIND GLASS.
+> 
+> A kind in glass and a cousin, a spectacle and nothing strange a single hurt color and an arrangement in a system to pointing. All this and not ordinary, not unordered in not resembling. The difference is spreading.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/desmondcheongzx/tender-buttons/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My own powers of observation and imagination cannot compare with Gertrude Stein's. But to show that I care, and to grow as a reader and writer, this is my poem-by-poem explication of all the objects in _Tender Buttons_. You're more than welcome to follow me on this exploration, and thoughts are always welcome via desmond [at] desmondcheong.com
