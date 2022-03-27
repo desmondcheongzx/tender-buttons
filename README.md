@@ -1,2 +1,2 @@
-# tender-buttons
-A poem-by-poem explication of Gertrude Stein's Tender Buttons
+# Explicating Tender Buttons
+A poem-by-poem explication of Gertrude Stein's _Tender Buttons_.
