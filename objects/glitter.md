@@ -40,4 +40,4 @@ No gratitude in mercy and in medicine? When donating and when paying medical bil
 
 Borrowing and giving certainly go back to the idea of money.
 
-Change - so soon following "The difference is spreading" of the [carafe](/objects/carafe/).
+Change - so soon following "The difference is spreading" of the [carafe](/objects/carafe).
