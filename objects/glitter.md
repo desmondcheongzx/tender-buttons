@@ -42,11 +42,11 @@ The "ti"/"di" in "gratitude" and "medicine", both three syllable, both hiding th
 
 "mercy" and "medicine".
 
-What if there were a single additional "yen" added to the back of Japanese. We would have "medicine", "yen", "programme", "chosen", "chosen". Not quite rhymes, but close cousins. It may be implied in the spaces.
+What if there were a single additional "yen" added to the back of Japanese. We would have "medicine", "yen", "programme", "chosen", "chosen". Not quite rhymes, but close cousins. Probably unintended, but implied in my ears.
 
 ### Meditations
 
-Nickels --- as in the coin --- are often composed partly of nickel --- as in the chemical element. And in their natural forms out in the wild, they are bare of the icon that humans tend to stamp upon their covers.
+Nickels --- the coins --- are often composed partly of nickel --- the chemical element. And in their natural forms out in the wild, they are bare of the icon that humans tend to stamp upon their covers.
 
 The process of minting these nickels is a red-hot change that weakens the bonds between atoms. It takes time. How much? I do not know; perhaps an hour.
 
