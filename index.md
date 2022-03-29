@@ -1,4 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 ## Motive
+
 Gertrude Stein published _Tender Buttons_ in 1914 and, since then, I imagine generations of writers have enjoyed and struggled with her work. We readers are thrust into the thick of a world re-imagined, or re-examined, with the impelling "The difference is spreading" that ends the first poem:
 
 > A CARAFE, THAT IS A BLIND GLASS.
