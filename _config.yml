@@ -4,8 +4,6 @@ collections:
   objects:
     permalink: "/:collection/:path/"
     output: true
+    order:
+      - carafe.md
 
-just_the_docs:
-  collections:
-    objects:
-      name: Objects

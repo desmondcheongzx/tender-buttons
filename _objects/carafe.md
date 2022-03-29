@@ -1,3 +1,8 @@
+---
+layout: post
+title:  Carafe
+---
+
 ## A CARAFE, THAT IS A BLIND GLASS.
 
 > A CARAFE, THAT IS A BLIND GLASS.
