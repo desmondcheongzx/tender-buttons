@@ -2,6 +2,7 @@
 layout: default
 title:  Carafe
 parent: Objects
+permalink: objects/carafe
 nav_order: 1
 ---
 
