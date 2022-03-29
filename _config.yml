@@ -1,2 +1,11 @@
 remote_theme: just-the-docs/just-the-docs
 
+collections:
+  objects:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    objects:
+      name: Objects
