@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: default
 title:  Carafe
+parent: Objects
+nav_order: 1
 ---
 
 ## A CARAFE, THAT IS A BLIND GLASS.
